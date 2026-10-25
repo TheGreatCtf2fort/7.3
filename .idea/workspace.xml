@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd16cc0e-76e2-4bdf-ac55-6a22452dc9e7" name="Changes" comment="Commit 1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TheGreatCtf2fort&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TheGreatCtf2fort/7.2---MVC.git&quot;,
+    &quot;accountId&quot;: &quot;33d20467-9f9e-4420-820f-9fd5ed575207&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.1892754754613795" />
+      <entry key="MS500" value="3.287509318323348" />
+      <entry key="S2" value="7.01601101456023" />
+      <entry key="S5" value="11.522541039834291" />
+      <entry key="S10" value="17.71854072868928" />
+      <entry key="S30" value="29.2083994325815" />
+      <entry key="S60" value="34.53936449677331" />
+      <entry key="M2" value="38.13673467991646" />
+      <entry key="M5" value="41.342317688360595" />
+      <entry key="M10" value="42.91408495416958" />
+      <entry key="M15" value="43.53976249477102" />
+      <entry key="M30" value="44.231250117074936" />
+      <entry key="H1" value="44.60517389996673" />
+      <entry key="H2" value="44.79986754728953" />
+      <entry key="H4" value="44.89924010128679" />
+      <entry key="D1" value="44.98310914324878" />
+      <entry key="W1" value="44.997584615951745" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.136476690344679" />
+      <entry key="MS500" value="3.262702731560978" />
+      <entry key="S2" value="7.003032574849433" />
+      <entry key="S5" value="11.513951460303003" />
+      <entry key="S10" value="17.71174158001943" />
+      <entry key="S30" value="29.20438431205758" />
+      <entry key="S60" value="34.5368973457951" />
+      <entry key="M2" value="38.13533413575954" />
+      <entry key="M5" value="41.34169850653141" />
+      <entry key="M10" value="42.913761630378154" />
+      <entry key="M15" value="43.53954339579256" />
+      <entry key="M30" value="44.23113863461895" />
+      <entry key="H1" value="44.605117641939614" />
+      <entry key="H2" value="44.799839284497956" />
+      <entry key="H4" value="44.89922593584836" />
+      <entry key="D1" value="44.98310677756218" />
+      <entry key="W1" value="44.99758427787878" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LCEtV02grumEZEdpvng37aORg0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/caique/PycharmProjects/7.3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Domain" />
+      <recent name="$PROJECT_DIR$/app/Repo" />
+      <recent name="$PROJECT_DIR$/app/Presentation" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PY-262.10968.92" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd16cc0e-76e2-4bdf-ac55-6a22452dc9e7" name="Changes" comment="" />
+      <created>1792949865454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792949865454</updated>
+      <workItem from="1792949866464" duration="853000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit 1">
+      <option name="closed" value="true" />
+      <created>1792950164922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792950164922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
+  </component>
+</project>
